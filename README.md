@@ -1,2 +1,4 @@
 # Efe-Kanat-Yakalay-n-Python-Turtle-Game-
-This is my first Python Turtle project homework. 
+
+ENG:
+This is my homework about creating a Python Turtle game from an Udemy Python Course called "Python Course In 100 Days by Atıl Samancıoğlu". 
