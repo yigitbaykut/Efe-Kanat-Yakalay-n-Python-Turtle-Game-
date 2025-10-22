@@ -70,7 +70,7 @@ def move_randomly():
         EfeKanat.goto(ranx, rany)
         EfeKanat.showturtle()
         moves -= 1
-        drawing_board.ontimer(move_randomly, 500)
+        drawing_board.ontimer(move_randomly, 500) # ----> This line is an example for a recursive function.
         efe_count.clear()
         efe_count.write(f"{moves}", align="center", font=("Arial", 20, "bold"))
     else:
